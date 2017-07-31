@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnityMsBand</string>
+    <string name="intent_key">new intent</string>
+    <string name="intent_value">TileEventReceiver</string>
+</resources>

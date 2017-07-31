@@ -1,0 +1,1 @@
+Add microsoft plugin version: microsoft-band-1.3.20217.2.jar here and delete this file!
